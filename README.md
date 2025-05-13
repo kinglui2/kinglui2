@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Luiz
+## 👋 Hi, I’m LEWIS
 
 🚀 I'm a passionate **Full-Stack Developer** with hands-on experience in building scalable, user-focused web applications using the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
