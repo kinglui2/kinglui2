@@ -13,6 +13,15 @@
 - **Tools**: Git, GitHub, Postman, VS Code, Linux (Pop!_OS), Firebase
 - **DevOps**: Netlify, Render, Ngrok (for API tunneling)
 
+### 💼 Professional Experience
+
+-💼 **Support Team – CloudOne**
+  - Assisted with system monitoring and troubleshooting
+  - Worked closely with DevOps teams to manage cloud-based environments
+  - Gained real-time exposure to IT support, APIs, and cloud deployments
+
+---
+
 ### 📚 Currently Learning
 - Advanced Authentication (JWT, OAuth2)
 - MongoDB Aggregation & Query Optimization
