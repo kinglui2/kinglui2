@@ -15,12 +15,10 @@
 
 ### 💼 Professional Experience
 
--💼 **Support Team – CloudOne**
+💼 **Support Team – CloudOne**
   - Assisted with system monitoring and troubleshooting
   - Worked closely with DevOps teams to manage cloud-based environments
   - Gained real-time exposure to IT support, APIs, and cloud deployments
-
----
 
 ### 📚 Currently Learning
 - Advanced Authentication (JWT, OAuth2)
