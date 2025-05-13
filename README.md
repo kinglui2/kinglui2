@@ -15,10 +15,11 @@
 
 ### 💼 Professional Experience
 
-💼 **Support Team – CloudOne**
-  - Assisted with system monitoring and troubleshooting
-  - Worked closely with DevOps teams to manage cloud-based environments
-  - Gained real-time exposure to IT support, APIs, and cloud deployments
+### 💼 **Support Team – CloudOne**
+  - Provided technical support for VoIP systems and cloud-based communication platforms, including SIP trunks and toll-free numbers.
+  - Assisted with system monitoring, call flow troubleshooting, and real-time issue resolution to ensure uptime and reliability.
+  - Collaborated with DevOps teams on the deployment and management of scalable cloud environments.
+  - Gained hands-on experience with call management systems, APIs, and tools that enhance team collaboration and customer engagement.
 
 ### 📚 Currently Learning
 - Advanced Authentication (JWT, OAuth2)
