@@ -34,7 +34,7 @@
 ### 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/lewis-manyasa-209020298/)
 - 📧 Email: manyasalewis@gmail.com
-- 🌍 Portfolio: [kinglui2.github.io Portfolio](https://kinglui2.github.io/my-personal-website-portfolio-Group-18/)
+- 🌍 Portfolio: [(https://kinglui2.github.io/my-personal-website-portfolio-Group-18/])
 
 ---
 
